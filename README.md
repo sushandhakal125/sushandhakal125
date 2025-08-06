@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sushan Dhakal!
 
-🚀 Aspiring Software Engineer | 💡 Machine Learning Enthusiast | 🎓 CS Graduate  
+🚀 Software Engineer | 💡 Machine Learning Enthusiast | 🎓 CS Graduate  
 🔍 Actively seeking OPT-friendly full-time opportunities (Boston/NYC preferred)
 
 ---
